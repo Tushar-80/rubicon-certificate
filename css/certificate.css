@@ -43,3 +43,9 @@ body{
     margin-top: 100px;
     margin-right: 20px;
 }
+.sign{
+    width: 180px;
+    background-image: none;
+    position: absolute;
+    right: 22%;
+}
